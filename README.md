@@ -1,2 +1,2 @@
 # Screenplay-Claw
-A framework for agents who write screenplays.
+Agentic superpowers for writing screenplays.
