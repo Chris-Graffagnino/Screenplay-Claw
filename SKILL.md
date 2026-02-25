@@ -1,3 +1,9 @@
+---
+name: screenwriting-claw
+description: Operational manual for writing industry-standard screenplays. Use when the user asks to write, draft, outline, adapt, evaluate, or refactor a screenplay, script, pilot, short film, or any screen-format narrative. Also activates for loglines, synopses, treatments, beat sheets, character profiles, dialogue craft, Fountain syntax, or multi-agent screenplay workflows.
+version: 1.0.0
+---
+
 # Screenplay Writing Manual for AI Agents
 
 Operational reference for AI agents generating commercially viable, industry-standard screenplays. Combines structural dramaturgy, formatting mechanics, dialogue craft, and multi-agent workflow into a single working document.
